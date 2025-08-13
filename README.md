@@ -1,16 +1,19 @@
 # Domino's-Pizza-Sales-Dashboard
 
 This interactive dashboard dives deep into Domino’s order trends and helped me answer some key business questions like:
+
  📊 What time of day drives the most orders?
  📅 Which months (and weekdays) bring in the most revenue?
  🍕 What sizes and categories are customers really loving?
 
 But I didn’t stop there — I pulled out hidden insights like:
+
  🔍 Low-value late-night hours (time to optimize staffing!)
  🎯 Single-item orders dominating → major upsell opportunity
  💡 Veggie pizzas could be a secret margin booster 💰
 
 Features I used:
+
  ✅ Interactive button slicers for Month & Quarter
  ✅ Drill-downs on sales by time, category, and pizza name
  ✅ KPI cards, AOV, and smart visuals with clean UX
